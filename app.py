@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 
 @app.route("/")
-def get_movies():
+def get_backend():
     url = "http://localhost:3000/estado"
 
     response = urllib.request.urlopen(url)
