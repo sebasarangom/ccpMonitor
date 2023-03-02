@@ -9,3 +9,5 @@ Ejecución de Pruebas en JMeter.
 5. Correr Requirements.txt
 6. Lanzar el Monitor usando el comando flask run --port=2000
 7. Configurar JMeter: Ver archivo configuracion JMeter
+
+Video presentación de experimento: https://youtu.be/SY8SPOzE04w
